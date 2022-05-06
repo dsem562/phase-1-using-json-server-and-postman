@@ -146,7 +146,7 @@ $ json-server --watch db.json
 
 When run, you'll see some messaging about how to access our JSON data. By
 default, JSON Server will start up on port `3000`. You should see a notice
-that you can access the server at `http://localhost:3000`.
+that you can access the server at `c`.
 
 Open your browser and paste this URL in. If the server is running correctly, you
 should be presented with a page of information provided by JSON Server. On this
